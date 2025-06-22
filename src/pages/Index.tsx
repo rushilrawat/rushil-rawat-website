@@ -115,7 +115,7 @@ const Index = () => {
                 className="w-64 h-64 md:w-80 md:h-80 rounded-full border-4 border-green-600 dark:border-green-400 overflow-hidden mt-16 md:mt-12"
               >
                 <img 
-                  src="/media/rushilrawat.png" 
+                  src="/media/rushilrawat.jpeg" 
                   alt="Rushil Rawat"
                   className="w-full h-full object-cover"
                 />
@@ -289,7 +289,7 @@ const Index = () => {
                   className="w-96 h-96 xl:w-[420px] xl:h-[420px] rounded-full border-4 border-green-600 dark:border-green-400 overflow-hidden"
                 >
                   <img 
-                    src="/media/rushilrawat.png" 
+                    src="/media/rushilrawat.jpeg" 
                     alt="Rushil Rawat"
                     className="w-full h-full object-cover"
                   />
